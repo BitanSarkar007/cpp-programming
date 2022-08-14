@@ -28,5 +28,5 @@ int main(){
     cout<<"The id is: "<<e1.id<<endl; 
     cout<<"The name is: "<<e1.name<<endl;
     cout<<"The salary is: "<<e1.salary<<endl;
-    return 0;
+    return 0;//ok
 }

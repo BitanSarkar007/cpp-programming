@@ -11,5 +11,5 @@ int main()
     cin>>num2;
 
     cout<<"The sum is "<<num1+num2 <<"\n";
-    return 0;
+    return 0;//ok
 }

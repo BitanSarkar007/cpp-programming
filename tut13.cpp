@@ -14,5 +14,5 @@ int main()
         cout << "The value of marks[2] is: " << *(p+2)<<endl; 
         cout << "The value of marks[3] is: " << *(p+3)<<endl; 
 
-    return 0;
+    return 0;//ok
 }
