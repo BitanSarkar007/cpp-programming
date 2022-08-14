@@ -18,6 +18,8 @@ int main(){
     ep e1;
     union money m1;
     enum Meal {Breakfast, Lunch, Dinner};
+    Meal m2 = Breakfast;
+    cout<<"The value of m1 is: "<<m2<<endl;
     cout<< "Meals: " << Breakfast << " " << Lunch << " " << Dinner << endl;
     m1.rupees = 1000;
     m1.dollars = 1.5;
