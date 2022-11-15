@@ -34,7 +34,7 @@ int main()
     }
     for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < q; j++)
+        for (int j = 0; j < q; j++) 
         {
             c[i][j] = 0; //initializing the product matrix to 0
         }
